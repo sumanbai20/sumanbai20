@@ -3,7 +3,7 @@
 - 🔭 I'm currently working as **React Native Developer** at **QF Network**
 - 📱 I'm interested in **Mobile App Development**
 - 💬 Ask me about **React Native | JavaScript | Mobile Apps**
-- 📫 How to reach me **sumanbai20@gmail.com**
+- 📫 How to reach me **sumanbai795@gmail.com**
 - ⚡ Fun fact: I love turning ideas into beautiful mobile experiences!
 
 ---
